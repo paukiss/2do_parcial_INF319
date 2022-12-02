@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "veq4YhBnSp3V1tBZfTdt2hqrqAJdxZCemgudJxp6ePE=",
+  "Source": "WebApplicationPregunta4319",
+  "BasePath": "_content/WebApplicationPregunta4319",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\sergi\\Downloads\\2doParcial-INF319-master\\2doParcial-INF319-master\\Problema5\\WebApplicationPregunta\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebApplicationPregunta4319.styles.css",
+      "SourceId": "WebApplicationPregunta4319",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\sergi\\Downloads\\2doParcial-INF319-master\\2doParcial-INF319-master\\Problema5\\WebApplicationPregunta\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/WebApplicationPregunta4319",
+      "RelativePath": "WebApplicationPregunta4319.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\sergi\\Downloads\\2doParcial-INF319-master\\2doParcial-INF319-master\\Problema5\\WebApplicationPregunta\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebApplicationPregunta4319.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\sergi\\Downloads\\2doParcial-INF319-master\\2doParcial-INF319-master\\Problema5\\WebApplicationPregunta\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplicationPregunta4319.bundle.scp.css",
+      "SourceId": "WebApplicationPregunta4319",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\sergi\\Downloads\\2doParcial-INF319-master\\2doParcial-INF319-master\\Problema5\\WebApplicationPregunta\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/WebApplicationPregunta4319",
+      "RelativePath": "WebApplicationPregunta4319.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\sergi\\Downloads\\2doParcial-INF319-master\\2doParcial-INF319-master\\Problema5\\WebApplicationPregunta\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplicationPregunta4319.bundle.scp.css"
+    }
+  ]
+}

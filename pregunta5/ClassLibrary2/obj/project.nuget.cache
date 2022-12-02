@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YVDmBg2gA/tVju6oDaJHFwJuOilq1DeJOvH0oUIqixaNa+PwVF9X5AKjuscbOSwdQciqtjC/CGlQpPW6ZhtoMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sergi\\Downloads\\2doParcial-INF319-master\\2doParcial-INF319-master\\Problema5\\ClassLibrary2\\ClassLibrary2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sergi\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
